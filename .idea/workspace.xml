@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f64bbd97-0823-450a-b38e-9213de169071" name="Default Changelist" comment="" />
+    <list default="true" id="f64bbd97-0823-450a-b38e-9213de169071" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2nd lesson/SnakeGame1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3rd lesson/SnakeGame1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3rd lesson/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7th lesson/SnakeGame1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SnakeGame1.html" beforeDir="false" afterPath="$PROJECT_DIR$/1st lesson/SnakeGame1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/3rd lesson/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,65 +21,105 @@
     <session id="-38710157">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="js" value="1" />
+          <entry key="css" value="2" />
+          <entry key="html" value="10" />
+          <entry key="js" value="7" />
+          <entry key="php" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="10" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PHP" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="51" />
-          <entry key="html" value="102" />
-          <entry key="js" value="111" />
+          <entry key="html" value="729" />
+          <entry key="js" value="816" />
+          <entry key="php" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="51" />
-          <entry key="HTML" value="102" />
-          <entry key="JavaScript" value="111" />
+          <entry key="HTML" value="729" />
+          <entry key="JavaScript" value="816" />
+          <entry key="PHP" value="19" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SnakeGame1.html">
+        <entry file="file://$PROJECT_DIR$/3rd lesson/snake.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="238">
+              <caret line="14" column="2" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3rd lesson/SnakeGame1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="63" selection-end-line="68" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6th lesson/SnakeGame1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="134" column="10" lean-forward="true" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snake.js">
+        <entry file="file://$PROJECT_DIR$/7th lesson/SnakeGame1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="401">
+              <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+        <entry file="file://$PROJECT_DIR$/2nd lesson/SnakeGame1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1st lesson/SnakeGame1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,12 +134,34 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+      <find>update</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/SnakeGame1.html" />
         <option value="$PROJECT_DIR$/snake.js" />
+        <option value="$PROJECT_DIR$/3rd lesson/snake1.js" />
+        <option value="$PROJECT_DIR$/4th lesson/snake.js" />
+        <option value="C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/single.php" />
+        <option value="C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/infoPuslapis - Copy.php" />
+        <option value="$PROJECT_DIR$/1st lesson/snake.js" />
+        <option value="$PROJECT_DIR$/3rd lesson/snake.js" />
+        <option value="$PROJECT_DIR$/3rd lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/2nd lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/1st lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/4th lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/5th lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/6th lesson/SnakeGame1.html" />
+        <option value="$PROJECT_DIR$/7th lesson/SnakeGame1.html" />
       </list>
     </option>
   </component>
@@ -105,12 +176,12 @@
     <option name="width" value="1944" />
     <option name="height" value="2082" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,10 +189,41 @@
               <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="snake JS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="1st lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="2nd lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="3rd lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="4th lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="5th lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snake JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snake JS" type="462c0819:PsiDirectoryNode" />
+              <item name="6th lesson" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,6 +231,15 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\taaas\Desktop\cakids\snake JS" />
+      <recent name="C:\Users\taaas\Desktop\cakids\snake JS\1st lesson" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\taaas\Desktop\cakids\snake JS\2nd lesson" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,25 +263,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547796162504</updated>
-      <workItem from="1547796163944" duration="729000" />
+      <workItem from="1547796163944" duration="8683000" />
+      <workItem from="1547988377819" duration="599000" />
+      <workItem from="1548403289673" duration="1411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="729000" />
+    <option name="totallyTimeSpent" value="10693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="848" y="0" width="864" height="925" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5136139" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27227724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -178,11 +286,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,24 +305,105 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/SnakeGame2.html" />
+    <entry file="file://$PROJECT_DIR$/3rd lesson/snake1.js" />
+    <entry file="file://$PROJECT_DIR$/4th lesson/snake.js" />
+    <entry file="file://C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="578">
+          <caret line="34" column="39" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SnakeGame1.html">
+    <entry file="file://C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="680">
+          <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snake.js">
+    <entry file="file://C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/infoPuslapis - Copy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/g1/wp-content/themes/wp-childcare/infoPuslapis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1st lesson/snake.js" />
+    <entry file="file://$PROJECT_DIR$/2nd lesson/snake.js" />
+    <entry file="file://$PROJECT_DIR$/2nd lesson/style.css" />
+    <entry file="file://$PROJECT_DIR$/3rd lesson/snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2nd lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1st lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4th lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3rd lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="63" selection-end-line="68" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5th lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="119" lean-forward="true" selection-end-line="142" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6th lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="134" column="10" lean-forward="true" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7th lesson/SnakeGame1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
         </state>
       </provider>
     </entry>
