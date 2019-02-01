@@ -10,7 +10,7 @@
     var WIDTH = 500;
     var HEIGHT = 500;
     //snake body
-    var snakeList, foodList, /* new var:*/direction;
+    var snakeList, foodList, direction, /* new var:*/ eaten;
     ctx.font = "20px Calibri";
 
 
@@ -70,11 +70,10 @@
         //f = food; i = index
         ctx.save();
         ctx.fillStyle = food.color;
-        ctx.fillRect=(f.x, f.y, food.width, food.height);
+        ctx.fillRect(f.x, f.y, food.width, food.height);
         ctx.restore();
 
     }
-
 
     //update snake position
     updateSnakeList = function() {
@@ -117,8 +116,10 @@
             }
         }
     }
+
+    //check snake position
     checkSnakePosition = function() {
-    if (snakeList[0].x > 500) {
+        if (snakeList[0].x > 500) {
             snakeList[0].x = 0;
         }
         if (snakeList[0].x < 0) {
@@ -132,12 +133,17 @@
         }
     }
 
-
-
     //update snake position
 
     updateSnakePosition = function() {
         ctx.clearRect(0,0,WIDTH,HEIGHT);
+        while(eaten){
+            var pos_x = Math.random()*485+5;
+            var pos_y = Math.random()*485+5;
+            foodList[0] = {x:pos_x, y:pos_y};
+            eaten = false;
+        }
+        foodList.forEach(drawFood);
         snakeList.forEach(drawSnake);
         checkSnakePosition();
         updateSnakeList();
@@ -153,11 +159,12 @@
 
         foodList = [];
         //new var
+        eaten =true;
         direction= 99;
        //every 50ms position changes
         setInterval(updateSnakePosition,50);
     }
-
+    
     startGame();
 
 
